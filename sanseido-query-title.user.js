@@ -5,6 +5,7 @@
 // @include     http://www.sanseido.net/User/Dic/Index.aspx*
 // @version     1
 // @grant       none
+// @license     http://unlicense.org/
 // ==/UserScript==
 
 function getQueryParams(qs) {
