@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        sanseido-query-title
 // @namespace   https://github.com/tsudoko
-// @description Adds search query to the title tag on sanseido.net
+// @description Adds search query to the title tag on sanseido.biz
 // @include     http://www.sanseido.biz/User/Dic/Index.aspx*
 // @version     1
 // @grant       none
