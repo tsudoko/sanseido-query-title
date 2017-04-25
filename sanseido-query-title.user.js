@@ -2,7 +2,7 @@
 // @name        sanseido-query-title
 // @namespace   https://github.com/tsudoko
 // @description Adds search query to the title tag on sanseido.net
-// @include     http://www.sanseido.net/User/Dic/Index.aspx*
+// @include     http://www.sanseido.biz/User/Dic/Index.aspx*
 // @version     1
 // @grant       none
 // @license     http://unlicense.org/
